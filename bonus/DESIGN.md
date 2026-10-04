@@ -112,4 +112,3 @@ Thiết kế kế thừa các tình huống kiểm chứng của lab: chạy l�
 
 Trước production, cần thêm kịch bản mất kết nối giữa ghi và công bố, sự kiện ngoài lookback, tài liệu bị thu hồi quyền, truy xuất chéo tenant, chất lượng OCR và tài liệu cố chứa chỉ dẫn điều khiển chatbot. Đo retrieval trên tập câu hỏi tiếng Việt do nhân viên duyệt, tỷ lệ trả lời có nguồn và thời gian phản hồi trước khi mở rộng người dùng.
 
-Bàn giao B2 ở đây là tài liệu thiết kế, không bao gồm prototype mới hay tuyên bố đã đạt SLA production. Nội dung được hỗ trợ soạn bằng Codex; người nộp cần rà soát giả định và giải thích các đánh đổi. Tiêu chí đối chiếu: [đề Bonus B2](../docs/bonus/BONUS-CHALLENGE.md) và [rubric](../docs/RUBRIC.md).
