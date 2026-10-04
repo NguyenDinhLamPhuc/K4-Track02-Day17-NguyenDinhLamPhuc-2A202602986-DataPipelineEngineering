@@ -191,5 +191,4 @@ RESULT: PARITY — both implementations agree
 BONUS PASS
 ```
 - B2 brainstorm: `bonus/DESIGN.md`
-Nếu dùng PowerShell, ghi lệnh tương đương và output thực tế theo [SUBMISSION.md](../docs/SUBMISSION.md).
-Nếu làm bonus, thêm output B1 hoặc đường dẫn bằng chứng B2 ở cuối phần này.
+
